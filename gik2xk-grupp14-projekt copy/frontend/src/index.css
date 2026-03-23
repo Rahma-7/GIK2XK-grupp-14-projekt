@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+  }
+  
+  nav {
+    background-color: #222;
+    padding: 15px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  h1 {
+    margin-left: 20px;
+  }
+  
+  h2 {
+    margin-left: 20px;
+  }
+  
+  div {
+    margin: 20px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  select {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  .product-card {
+    background: white;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    width: 250px;
+  }
